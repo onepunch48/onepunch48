@@ -1,16 +1,16 @@
-# Hello! I am Belal 👋 Welcome on my Github profile! :punch: :sunglasses:
+# Hello! I am Belal :wave: Welcome on my Github profile! :punch: :sunglasses:
 
 ## About Me
 
-- 🌱 I am currently training to become a Junior Web Developer.
-- 🔭 I am passionate about manga and video games.
-- 💻 My love for programming originated from managing several servers for a game called Dayz.
+- :seedling: I am currently training to become a Junior Web Developer.
+- :telescope: I am passionate about manga and video games.
+- :computer: My love for programming originated from managing several servers for a game called Dayz.
 - ⚙️ After coding my first server, I was completely captivated by programming.
-- 🚀 My goal is to become a Full Stack Developer and work independently in the future!
+- :rocket: My goal is to become a Full Stack Developer and work independently in the future!
 
 ## Education
 
-- 🎓 I am currently enrolled in training at Sirius.
+- 🎓 I am currently enrolled in training at [SiriusSchool](https://github.com/sirius-school).
 
 ## Other Interests
 
