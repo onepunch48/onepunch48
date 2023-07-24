@@ -19,7 +19,7 @@
 
 ## Contact
 
-- You can reach me by email at belalbou4800@gmail.com or on discord one2424
+- You can reach me by email at belalbou4800@gmail.com or on discord #one2424
   Feel free to check out my projects on GitHub and leave a star if you find something interesting! 🌟
 
   ![Logo](./img/OnePunch.webp)
