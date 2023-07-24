@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🌱 I am currently undergoing training to become a Junior Web Developer.
+- 🌱 I am currently training to become a Junior Web Developer.
 - 🔭 I am passionate about manga and video games.
 - 💻 My love for programming originated from managing several servers for a game called Dayz.
 - ⚙️ After coding my first server, I was completely captivated by programming.
